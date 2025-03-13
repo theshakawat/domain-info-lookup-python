@@ -13,6 +13,8 @@ A FastAPI-based web service to retrieve domain registration details and subdomai
 - 📦 **Lightweight**: Minimal dependencies
 - 🚀 **Production-ready**: Deployed on Render
 
+```
+
 ## Usage
 
 ### Installation
@@ -22,7 +24,6 @@ A FastAPI-based web service to retrieve domain registration details and subdomai
 git clone https://github.com/theshakawat/domain-info-lookup-python.git
 cd domain-info-lookup-python
 ```
-
 2. Install dependencies:
 ```bash
 pip install -r requirements.txt
